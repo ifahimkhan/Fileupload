@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/home/fahim/AndroidStudioProjects/FileUploadPHP/aFileChooser/src/main/assets"/><source path="/home/fahim/AndroidStudioProjects/FileUploadPHP/aFileChooser/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/home/fahim/AndroidStudioProjects/FileUploadPHP/aFileChooser/src/debug/assets"/></dataSet></merger>
